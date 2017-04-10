@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serilog_sinks_hockeyapp", "serilog_sinks_hockeyapp\serilog_sinks_hockeyapp.csproj", "{CC706D7F-5020-460C-9AF7-12156E01583E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.HockeyApp", "Serilog.Sinks.HockeyApp\Serilog.Sinks.HockeyApp.csproj", "{CC706D7F-5020-460C-9AF7-12156E01583E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
