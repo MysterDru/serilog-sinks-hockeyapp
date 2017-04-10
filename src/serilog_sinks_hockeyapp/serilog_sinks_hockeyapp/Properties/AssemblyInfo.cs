@@ -4,8 +4,8 @@ using System.Runtime.CompilerServices;
 // Information about this assembly is defined by the following attributes. 
 // Change them to the values specific to your project.
 
-[assembly: AssemblyTitle("serilog_sinks_hockeyapp")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Serilog.Sinks.HockeyApp")]
+[assembly: AssemblyDescription("A Serilog sink that writes events to Hockey App.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("")]
