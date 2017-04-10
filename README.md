@@ -2,6 +2,7 @@
 A [Serilog](https://serilog.net) sink that writes events to [Hockey App](https://www.hockeyapp.net).
 
 ![vsts build](https://drewfrisk.visualstudio.com/_apis/public/build/definitions/fbc17324-598d-441f-8704-fb5d7b66a452/7/badge)
+[![NuGet](https://img.shields.io/nuget/v/Nuget.Core.svg)](https://www.nuget.org/packages/serilog-sinks-hockeyapp/)
 
 ### Getting started
 
