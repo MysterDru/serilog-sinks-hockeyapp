@@ -25,7 +25,7 @@ Because the memory buffer may contain events that have not yet been written to t
 
 ### Additional Info
 
-Due to restrictions in HockeyApp any properties contained in your log message will not be visible in the HockeyApp dashboard. This is due to a restriction in the platform. If you [configure a bridge](https://support.hockeyapp.net/discussions/problems/65785-custom-events-properties) between HockeyApp and Application Insights your event properties will be visible.
+Due to restrictions in HockeyApp any properties contained in your log message will not be visible in the HockeyApp dashboard. If you [configure a bridge](https://support.hockeyapp.net/discussions/problems/65785-custom-events-properties) between HockeyApp and Application Insights your event properties will be visible.
 
 See [here](https://support.hockeyapp.net/discussions/problems/65785-custom-events-properties), and [here](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-hockeyapp-bridge-app) for additional details on this.
 
